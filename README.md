@@ -1,3 +1,3 @@
-# site da alura
+# Site da Alura
 
-atividade do curso de git e github
+Atividade do curso de Git e GitHub
